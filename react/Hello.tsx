@@ -1,6 +1,6 @@
 import React from 'react';
 
-const HelloWord: StorefrontFunctionComponent = () => {
+const Hello: StorefrontFunctionComponent = () => {
    return (
     <>
       <h1>Hello Word</h1>
@@ -8,4 +8,4 @@ const HelloWord: StorefrontFunctionComponent = () => {
    )
 };
 
-export default HelloWord;
+export default Hello;
